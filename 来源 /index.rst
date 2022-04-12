@@ -11,6 +11,7 @@ Welcome to SHAN's BLOG's documentation!
    :caption: Contents:
    
     Tyora使用.md
+    sphinx-test
 	
 
 Indices and tables
