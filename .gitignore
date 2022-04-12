@@ -1,0 +1,6 @@
+.idea/
+*.pyc
+Pipfile
+test*
+build_bak
+build
